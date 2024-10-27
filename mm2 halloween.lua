@@ -3,8 +3,6 @@
     █▄█ ▀▄▀ ██▄ █▀▄ █▄▀ █▀▄ █ ▀▄▀ ██▄   █▀█
 
     This file only runs in Roblox.
-    Protected by IronBrew:tm: obfuscation; Version 2.7.0
-    Script SHA ID: 58e9c0be-7be4-48ec-a607-71e808f6e8b8
     This script contains anti 3rd party loader.
 ]]
 
